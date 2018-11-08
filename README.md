@@ -11,6 +11,9 @@ Maze generator scripts for Minecraft.
 A maze generator for Minecraft with three different algorithms.
 
 ### How it works
+
+***[See my demostration video on youtube.](https://www.youtube.com/watch?v=cERIEOcE1S4)***
+
 There are three maze generator Python scripts:
 - Recursive division [[1]](#references)
 - Recursive backtracking [[2]](#references)

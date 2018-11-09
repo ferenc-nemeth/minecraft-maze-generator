@@ -1,7 +1,7 @@
 # minecraft-maze-generator
 Maze generator scripts for Minecraft.
 
-### Table of content
+### Table of Contents
 - [Introduction](#introduction)
 - [How it works](#how-it-works)
 - [How to use it](#how-to-use-it)

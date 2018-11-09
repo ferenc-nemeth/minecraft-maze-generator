@@ -33,7 +33,7 @@ Then you can run the generators with the following command:
 
 For example:
 ```
-/py maze_recursive_division 21 2 21 pink_wool
+/py maze_recursive_division 21 2 21 wool_pink
 /py maze_recursive_backtracking 15 1 55 obsidian
 /py maze_binary_tree 35 5 35 diamond_ore
 ```

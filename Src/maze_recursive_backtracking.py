@@ -90,6 +90,7 @@ def main():
         x = (random.randint(0, width-2))//2*2+1
         z = (random.randint(0, length-2))//2*2+1
         Maze_CravePassage(mc, maze, mc_x, mc_y, mc_z, x, z, height)
+        mc.postToChat("Maze generation done!")
     else:
         # If we did not get enought parameters, then send a warning.
         mc.postToChat("The following parameters are needed: width, height, length, material")

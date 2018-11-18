@@ -15,9 +15,9 @@ A maze generator for Minecraft with three different algorithms.
 ***[See my demostration video on youtube.](https://www.youtube.com/watch?v=cERIEOcE1S4)***
 
 There are three maze generator Python scripts:
-- Recursive division [[1]](#references)
-- Recursive backtracking [[2]](#references)
-- Binary Tree [[3]](#references)
+- Recursive division (maze_recursive_division.py) [[1]](#references)
+- Recursive backtracking (maze_recursive_backtracking.py) [[2]](#references)
+- Binary tree (maze_binary_tree.py) [[3]](#references)
 
 The dimensions and the material of the maze can be changed.<br> The maze is always generated to the south of the player.
 

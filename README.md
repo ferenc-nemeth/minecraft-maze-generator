@@ -12,7 +12,7 @@ A maze generator for Minecraft with three different algorithms.
 
 ### How it works
 
-***[See my demostration video on youtube.](https://www.youtube.com/watch?v=cERIEOcE1S4)***
+***[Demostration video on youtube.](https://www.youtube.com/watch?v=cERIEOcE1S4)***
 
 There are three maze generator Python scripts:
 - Recursive division (maze_recursive_division.py) [[1]](#references)
@@ -42,4 +42,4 @@ For example:
 [1] [Wikipedia - Recursive divison method](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_division_method)<br>
 [2] [Wikipedia - Recursive backtracking method](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Recursive_backtracker)<br>
 [3] [Wikipedia - Binary tree method](https://en.wikipedia.org/wiki/Maze_generation_algorithm#Simple_algorithms)<br>
-[4] [Iinstructable- Python coding for Minecraft](https://www.instructables.com/id/Python-coding-for-Minecraft/)<br>
+[4] [Instructables - Python coding for Minecraft](https://www.instructables.com/id/Python-coding-for-Minecraft/)<br>
